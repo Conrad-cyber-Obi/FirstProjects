@@ -1,3 +1,3 @@
 # FirstProjects
-Hello! These are some of my early projects in Python and C++. 
+Hello! These are some of my early assignments projects in Python.
 I plan to improve these early ideas over time.
